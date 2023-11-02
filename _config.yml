@@ -4,16 +4,16 @@ title: "Quest"
 description: "The Occasional Insights from a Reflective Voyager."
 logo: "assets/images/logo.svg"
 favicon: "assets/images/logo.svg"
-baseurl: /personal-blog
+baseurl: ""
 google_analytics: "UA-46278016-1"
-disqus: "demowebsite"
+disqus: "quest-5"
 mailchimp-list: "https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b"
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  certyfreak:
     name: Abdul Aziz Ali Alhassan
     display_name: certyfreak
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
@@ -32,11 +32,14 @@ plugins:
 
 # Archives
 jekyll-archives:
-  enabled:
-    - categories
+  enabled: all
   layout: archive
   permalinks:
     category: "/category/:name/"
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
 
 # Pagination
 paginate: 6
