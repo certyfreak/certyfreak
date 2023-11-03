@@ -3,8 +3,8 @@ layout: post
 title:  "Quest Genesis Block"
 author:  certyfreak
 categories: [ intro ]
-tags: [new]
-image: assets/images/Firefly Generate an image of a well dressed black software craftsmanship apprentice guy working at a (1).jpg
+tags: [new
+image: 1.jpg
 description: "Discover software craftsmanship and personal growth through 'Quest's Genesis Block"
 featured: true
 hidden: true
