@@ -4,7 +4,7 @@ title:  "Quest Genesis Block"
 author:  certyfreak
 categories: [ intro ]
 tags: [new]
-image: 1.jpg
+image: assets/images/1.jpg
 description: "Discover software craftsmanship and personal growth through 'Quest's Genesis Block"
 featured: true
 hidden: true
