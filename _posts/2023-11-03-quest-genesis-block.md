@@ -21,7 +21,7 @@ But the irony is, you better write to write better. I pledge to embrace the chal
 
 I am no proficient writer, nor am I a software craftsman. I intend to use this blog as a garden to nurture my writings and software craftsmanship. Correction of errors, the identification of weak notions, and suggestions for improvements are warmly welcomed.
 
-From time to time, my writings would be on JavaScript, Go (currently learning), cool stuff I am working on, personal successes, and some milestones reached.
+From time to time, my writings would be on software engineering, cool stuff I am working on/learning, personal successes, and some milestones reached.
 
 **Off topic?**
 
