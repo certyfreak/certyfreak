@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Quest Genesis Block"
-author: Abdul Aziz
 categories: [ intro ]
 tags: [new]
 image: assets/images/1.jpg
