@@ -12,15 +12,6 @@ include: ["_pages"]
 permalink: /:title/
 
 # Authors
-authors:
-  certyfreak:
-    name: Abdul Aziz Ali Alhassan
-    display_name: Abdul Aziz
-    gravatar: ''
-    email: azizalialhassan@gmail.com
-    web: certyfreak.com
-    twitter: https://twitter.com/certyfreak
-    description: "An apprentice aiming to grok software craftsmanship."
 
 # Plugins
 plugins:
