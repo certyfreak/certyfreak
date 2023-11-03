@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quest Genesis Block"
+title:  "Quest's Genesis Block"
 categories: [ intro ]
 tags: [new]
 image: assets/images/1.jpg
