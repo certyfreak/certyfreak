@@ -14,7 +14,7 @@ rating: 5.0
 > – Werner Herzog
 
 
-I began 2023 on a positive note, engaging in interviews and exploring various parts of Ghana for leisure. During my travels, I embraced new experiences like kayaking and rock climbing, the latter proving to be a life-changing adventure. It initially evoked fear, but I soon realized it boiled down to three principles: lean, feed, and step.
+I began 2023 on a positive note, balancing full-time remote work with education and exploring various parts of Ghana for leisure. During my travels, I embraced new experiences like kayaking and rock climbing, the latter proving to be a life-changing adventure. It initially evoked fear, but I soon realized it boiled down to three principles: lean, feed, and step.
 
 To lean on the rope symbolizes trust in a power greater than everything. Without this trust, you're exposed to unnecessary risks, akin to attempting to navigate challenges beyond your capacity. Trusting the rope doesn't guarantee control or instant victory; rather, it serves as a foundation for your endeavors, demanding hard work for success.
 
